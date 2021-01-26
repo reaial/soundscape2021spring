@@ -62,3 +62,5 @@ As it says above, the genre, subject, and setting for this project are up to you
 
 * **Day in the Life of...** Over the course of a few days, record 40 or more 5-second snippets of sound that tell us where you are and what you're doing. (The challenge will be to make at least some of these sounds different from everyone else's: parts of a particular soundscape, not a generic one.) Overlay a soundtrack that shows your energy – or the energy you'd like to have; fiction is fair game, after all – at various times of day. *Human voices, including yours, are welcome!*
 * **Interview for a Podcast** You know that one friend or family member who's always telling great stories? Ask them for a new one, or to re-tell one of your favorites, and this time, get it on "tape." Record more than you'll need, then go to the editing room to recreate the story in sound: boil it down to highlights, introduce your speaker and yourself, then add a background track and incidentals to round out the sonic atmosphere.
+
+did this work?
