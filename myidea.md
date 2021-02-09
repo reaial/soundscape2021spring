@@ -9,16 +9,11 @@ how boring it might sound for everyone ever since covid hit
 
 ASSETS( Sorry its not a table )
 
-Second Day (order) 
+Second Day (order)
 
 Needs 	           Solutions
- Brushing teeth   already have
- Laundry          already have
- Workout          already have
- Downstairs       already have
  Cooking          making tacos
  Car ride         already have
  Screaming in the street  already have
- Shower           already have
  Brushing teeth   already have
 Good nights       tonight
