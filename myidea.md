@@ -9,7 +9,16 @@ how boring it might sound for everyone ever since covid hit
 
 ASSETS( Sorry its not a table )
 
-Needs 	Solutions
+Second Day (order) 
 
-Movie     downstairs
-Workout   treadmill
+Needs 	           Solutions
+ Brushing teeth   already have
+ Laundry          already have
+ Workout          already have
+ Downstairs       already have
+ Cooking          making tacos
+ Car ride         already have
+ Screaming in the street  already have
+ Shower           already have
+ Brushing teeth   already have
+Good nights       tonight
