@@ -15,8 +15,5 @@ Needs 	           Solutions
 opening car door  later today (wkend) * before screams*
 closing car door  later today (wkend) * after second screams*
  Good nights      tonight     * before brushing teeth*
- Upstairs * start background track again*
- Close door 
- Brushing teeth   already have
- Light switch     already have ** fade out back ground track**
- Closing blinds
+   //* start background track again*
+ ** fade out back ground track during light switch**
