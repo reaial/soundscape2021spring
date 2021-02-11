@@ -12,8 +12,11 @@ ASSETS( Sorry its not a table )
 Second Day (order)
 
 Needs 	           Solutions
- Cooking          making tacos
- Car ride         already have
- Screaming in the street  already have
+opening car door  later today (wkend) * before screams*
+closing car door  later today (wkend) * after second screams*
+ Good nights      tonight     * before brushing teeth*
+ Upstairs * start background track again*
+ Close door 
  Brushing teeth   already have
-Good nights       tonight
+ Light switch     already have ** fade out back ground track**
+ Closing blinds
