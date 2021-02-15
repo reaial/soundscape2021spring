@@ -12,11 +12,4 @@ ASSETS( Sorry its not a table )
 Second Day (order)
 
 Needs 	           Solutions
-opening car door  later today (wkend) * before screams*
-closing car door  later today (wkend) * after second screams*
- Good nights      tonight     * before brushing teeth*
-   //* start background track again*
- ** fade out back ground track during light switch**
-
-
-** you're at 4:15 rn** 
+ you eneded up with 4:30 
